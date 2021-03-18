@@ -11,7 +11,7 @@
 	<c:forEach var="n" items="${list}">
 	 이름 : ${n.name}, 나이 : ${n.age}
 	 안녕하세요
-	 수정합니다. - 안태민
+	 수정합니다123. - 안태민
 	</c:forEach>
 </body>
 </html>
