@@ -7,11 +7,12 @@
 	</settings>
 
 	<typeAliases> <!-- Class 별칭을 선언하여 모든 경로를 적어주지 않아도 된다. -->
-		<typeAlias type="com.josso.main.vo.User" alias="User" />
+		<typeAlias type="com.josso.employee.controller.model.vo.Employee" alias="Employee" />
 	</typeAliases>
 	
 	<!-- 사용하고자 하는 mapper를 등록한다. -->
 	<mappers> 
-		<mapper resource="mapper/user-mapper.xml" />
+		<mapper resource="mapper/employee-mapper.xml" />
+		
 	</mappers>
 </configuration>
