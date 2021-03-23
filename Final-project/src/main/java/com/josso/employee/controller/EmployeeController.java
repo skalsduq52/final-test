@@ -103,11 +103,11 @@ public class EmployeeController {
 	}
 	
 	//로그인 폼 이동
-	@RequestMapping(value="loginForm.do", method=RequestMethod.GET)
+	@RequestMapping(value="index.do", method=RequestMethod.GET)
 	public String loginForm() throws Exception{
 //		System.out.println("loginform test");
 		
-		return "employee/loginForm";
+		return "login/index";
 	}
 	
 	//로그인
