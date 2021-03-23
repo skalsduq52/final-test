@@ -295,7 +295,7 @@
             
         </main>
         <footer class="border-top">
-
+	수정했읍니다.!
         </footer>
     </body>
 </html>
