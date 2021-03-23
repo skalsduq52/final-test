@@ -19,6 +19,7 @@ public class MainController {
 	TestDao td;
 	// 첫번쨰 최민재 커밋 2
 	// 커밋 최민재 세번쨰
+	// 혹시 안되는 사람 없쥬? 무야호~ 그만큼 신나신다는 거지
 
 	@RequestMapping(value="main", method = RequestMethod.GET)
 	public ModelAndView mainPage(ModelAndView modelAndView) {
