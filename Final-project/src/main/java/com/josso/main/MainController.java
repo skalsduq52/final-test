@@ -17,7 +17,7 @@ public class MainController {
 	
 	@Autowired
 	TestDao td;
-	// 첫번쨰 최민재 커밋
+	// 첫번쨰 최민재 커밋 2
 
 	@RequestMapping(value="main", method = RequestMethod.GET)
 	public ModelAndView mainPage(ModelAndView modelAndView) {
