@@ -184,7 +184,7 @@
                 <li>
                     <a href="#">
                     <span class="icon"><i class="fas fa-list-ul fa-lg" aria-hidden="true"></i></span>
-                    <span class="icon">게판</span>
+                    <span class="icon">게시판</span>
                     </a>
                 </li>
                 <li>
