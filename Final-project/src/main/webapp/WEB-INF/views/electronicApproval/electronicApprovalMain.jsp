@@ -185,7 +185,7 @@
 					<tr>
 						<td id="tdnum">2021-03-17</td>
 						<td>휴가신청서</td>
-						<td>휴가신청의 건</td>
+						<td>휴gd</td>
 						<td>1</td>
 						<td>대기중</td>
 					</tr>
