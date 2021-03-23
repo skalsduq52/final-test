@@ -1,4 +1,4 @@
-package com.osol.exam;
+package com.josso.main;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.osol.exam.vo.TestDao;
-import com.osol.exam.vo.User;
+import com.josso.main.vo.TestDao;
+import com.josso.main.vo.User;
 
 @Controller
 public class MainController {

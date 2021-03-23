@@ -1,4 +1,4 @@
-package com.osol.exam.vo;
+package com.josso.main.vo;
 
 public class User {
 
