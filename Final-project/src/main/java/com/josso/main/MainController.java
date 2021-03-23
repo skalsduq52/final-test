@@ -21,6 +21,7 @@ public class MainController {
 	// 커밋 최민재 세번쨰
 	// 혹시 안되는 사람 없쥬? 무야호~ 그만큼 신나신다는 거지
 	// 가자가자 무야호
+	// 나도 된다 - 수맹
 
 	@RequestMapping(value="main", method = RequestMethod.GET)
 	public ModelAndView mainPage(ModelAndView modelAndView) {
