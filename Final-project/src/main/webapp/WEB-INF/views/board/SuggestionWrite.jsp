@@ -320,7 +320,7 @@
            </form>        
         </main>
         <footer class="border-top">
-
+		수정함!
         </footer>
     </body>
 </html>
