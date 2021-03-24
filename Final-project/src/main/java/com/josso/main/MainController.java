@@ -24,6 +24,7 @@ public class MainController {
 	// 나도 된다 - 수맹
 	// d
 	// 3월 24일 오전 9시 19분 - 최민재
+	// TLqkf wha ehofk - dksxoals
 
 	@RequestMapping(value="main", method = RequestMethod.GET)
 	public ModelAndView mainPage(ModelAndView modelAndView) {
