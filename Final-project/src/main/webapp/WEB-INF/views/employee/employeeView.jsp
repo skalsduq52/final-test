@@ -12,7 +12,7 @@
 			<th>사원 번호</th>
 			<td>${employee.employeeNumber}</td>
 		</tr>  
-		
+		 
 	</table>  
 
 <a href="employeeUpdate.do?employeeNumber=${employee.employeeNumber }">정보수정</a>
