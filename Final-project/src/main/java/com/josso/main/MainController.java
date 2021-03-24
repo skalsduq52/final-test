@@ -23,6 +23,7 @@ public class MainController {
 	// 가자가자 무야호
 	// 나도 된다 - 수맹
 	// d
+	// 3월 24일 오전 9시 19분 - 최민재
 
 	@RequestMapping(value="main", method = RequestMethod.GET)
 	public ModelAndView mainPage(ModelAndView modelAndView) {
