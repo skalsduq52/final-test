@@ -9,9 +9,9 @@
 <body>
 	<table>
 		<tr>
-			<th>사원번호</th>
+			<th>사원 번호</th>
 			<td>${employee.employeeNumber}</td>
-		</tr>
+		</tr>  
 		
 	</table>
 
